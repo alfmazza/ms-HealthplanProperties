@@ -1,1 +1,1 @@
-# ms-HealthplanProperties
+# ms-HealthPlan-Properties
